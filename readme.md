@@ -1,3 +1,4 @@
-# This is my first public repo by First name and Last name
-This is my first public repo description
-> Developer: Roderick Bernardo [GitHub](https://github.com/).
+# Final-Project Quizzes R Us
+**Developer:** Roderick Bernardo [GitHub](https://github.com/).
+**Purpose:** This app provides an interface to a true or false type quiz.  
+
