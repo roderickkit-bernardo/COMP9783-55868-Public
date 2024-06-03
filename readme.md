@@ -1,6 +1,6 @@
-# Quiz App
+# Final-Project Quizzes R Us
 
-Welcome to the Quiz App! This app is designed to provide a fun and educational experience through engaging quizzes across various topics.
+This app all
 
 ## Table of Contents
 
@@ -14,19 +14,10 @@ Welcome to the Quiz App! This app is designed to provide a fun and educational e
 
 ## Features
 
-- **Diverse Question Categories**: History, science, literature, pop culture, and more.
-- **Multiple Question Formats**: Multiple choice, true/false, fill-in-the-blank, and matching.
-- **Timed Quizzes**: Adds an element of challenge with time constraints.
-- **Customizable Quizzes**: Create your own quizzes.
-- **Progress Tracking**: Detailed performance statistics and progress reports.
-- **Leaderboards**: Global ranking to compete with friends and users worldwide.
-- **Daily Challenges**: New quizzes every day with special rewards.
-- **Offline Mode**: Access quizzes and track progress without an internet connection.
-- **Interactive Feedback**: Immediate feedback with explanations.
-- **User-Friendly Interface**: Sleek and intuitive design.
+- **Feauture 1**: Feature description.
+- **Feauture 2**: Feature description.
 
 ## Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/quiz-app.git
+Installation instructions here...
+
