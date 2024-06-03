@@ -1,6 +1,6 @@
-# Final-Project Quizzes R Us
+# Final-Project app title
 
-This app all
+Final-Project app text here...
 
 ## Table of Contents
 
@@ -14,10 +14,30 @@ This app all
 
 ## Features
 
-- **Feauture 1**: Feature description.
-- **Feauture 2**: Feature description.
+- **Feauture 1**: Feature text here...
+- **Feauture 2**: Feature text here...
 
 ## Installation
 
-Installation instructions here...
+Installation text here...
+
+## Usage
+
+Usage text here...
+
+## Screenshots
+
+Screenshots text here...
+
+## Contributing
+
+Contributing text here...
+
+## License
+
+License text here...
+
+## Contact
+
+Contact text here...
 
